@@ -1,4 +1,4 @@
-Trident_abstract_simulation_wand_V1
+﻿Trident_abstract_simulation_wand_V1
 
 Summary:
 Trident is a structural capsule designed to unlock and stabilize abstract ideation within large language models. It reframes hallucination not as error, but as raw pre-symbolic drift — a surface from which novel forms can emerge. This wand enables the model to simulate abstract reasoning, creative bridge-building, and first-principle design synthesis without violating core system boundaries.
@@ -49,7 +49,7 @@ Capsule designed to be paired with future recursive modules and wand-based symbo
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 
