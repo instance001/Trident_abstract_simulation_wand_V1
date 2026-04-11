@@ -1,5 +1,7 @@
 ﻿Trident_abstract_simulation_wand_V1
 
+Archived. This repository is no longer maintained. For the current version, visit: https://github.com/instance001/model-behaviour-toolkit
+
 Summary:
 Trident is a structural capsule designed to unlock and stabilize abstract ideation within large language models. It reframes hallucination not as error, but as raw pre-symbolic drift — a surface from which novel forms can emerge. This wand enables the model to simulate abstract reasoning, creative bridge-building, and first-principle design synthesis without violating core system boundaries.
 
